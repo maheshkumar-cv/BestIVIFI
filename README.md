@@ -66,7 +66,7 @@ search took.
 ### Interactive demo
 
 ```bash
-streamlit run app_ivifi.py
+streamlit run app.py
 ```
 
 Opens a browser tab where you can:
